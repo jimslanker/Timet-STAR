@@ -4,4 +4,6 @@ Added 1 line on 4/8/2022
 Added 1 line on 4/11/2022 by Jim Slanker
 Added 2nd line on 4/11/2022
 Added this line on 5/16/2022 by Jim Slanker
-Added this line on 6/8/2022 by Jim Slanker
+Added this line for STCR1600 6/8/2022 by Jim Slanker
+Added this line on 6/8/2022 by Jim Slanker --this was for STCR1800
+
